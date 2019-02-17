@@ -1,0 +1,12 @@
+﻿  Socekt_Server.c
+Socekt_Server.c(50): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\WinSock2.h(2218): note: 'gethostbyname' 선언을 참조하십시오.
+Socekt_Server.c(20): warning C4101: 'address' :참조되지 않은 지역 변수입니다.
+Socekt_Server.c(19): warning C4101: 'send_buff' :참조되지 않은 지역 변수입니다.
+Socekt_Server.c(18): warning C4101: 'recv_buff' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  3 of 6 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Modbus_TCP.vcxproj -> C:\Users\s\Documents\Visual Studio 2017\Projects\Modbus_TCP\Release\Modbus_TCP.exe
